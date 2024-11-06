@@ -1,0 +1,7 @@
+{
+	"require": {
+		"php": "^8.2",
+		"chillerlan/php-qrcode": "dev-main#<commit_hash>",
+		"chillerlan/php-authenticator": "^5.2"
+	}
+}
